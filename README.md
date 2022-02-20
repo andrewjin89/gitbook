@@ -2,7 +2,7 @@
 
 * GITHUB - GITBOOK 연동 테스트를 위한 Repository
 * BOOK 작성법 테스트
-* [chapter1](chapter1.md)
+* [chapter1](./chapter1.md)
 
 ## Page Link
 
