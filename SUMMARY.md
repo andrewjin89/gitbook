@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Git-book](README.md)
-  * [chapter1](chapter1.md)
+  * [chapter1](readme/chapter1.md)
 * [Part I](part1/README.md)
   * [Writing is nice](part1/writing.md)
   * [GitBook is nice](part1/gitbook.md)
