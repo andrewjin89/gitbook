@@ -1,7 +1,7 @@
 # Table of contents
 
-* [My Resume](README.md)
-  * [chapter1](readme/chapter1.md)
+* [My_Resume](README.md)
+  * [jobKorea_version](My_Resume/jobKorea_version.md)
 
 * [GIT](part3/README.md)
   * [We love feedback](part3/feedback\_please.md)
