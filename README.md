@@ -1,4 +1,6 @@
-# Main page
+---
+description: Main page
+---
 
 ## Git-book
 
