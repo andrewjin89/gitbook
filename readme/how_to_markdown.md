@@ -2,9 +2,14 @@
 description: gitbook markdown 작성 방법
 ---
 
-> 참고 자료: https://github.com/GitbookIO/gitbook/blob/master/docs/syntax/markdown.md
+# how to gitbook markdown
 
-# 첫번째
-# 두번째
+{% hint style="info" %}
+참고자료 : TEST
+{% endhint %}
 
-# 세번째
+## 첫번째
+
+## 두번째
+
+## 세번째
