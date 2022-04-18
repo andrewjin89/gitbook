@@ -5,13 +5,19 @@ description: gitbook markdown 작성 방법
 # how to gitbook markdown
 
 {% hint style="info" %}
-참고자료 : TEST
+INFO 참고자료 : TEST
 {% endhint %}
 
 {% hint style="warning" %}
-* [ ] aa
-* [ ] dddfv
-* [ ] vvv
+Warning 경고
+{% endhint %}
+
+{% hint style="danger" %}
+Danger 위
+{% endhint %}
+
+{% hint style="success" %}
+Success 성
 {% endhint %}
 
 ## 첫번째
