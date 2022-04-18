@@ -9,6 +9,6 @@ description: Main page
 
 ## Page Link
 
-1. [my-resume](https://andrewjin.gitbook.io/portfolio/v/my-resume/)
-2. [sre-collection](https://andrewjin.gitbook.io/portfolio/v/sre-collection/)
-3. [devops-collection](https://andrewjin.gitbook.io/portfolio/v/devops-collection/)
+1. [git](https://andrewjin.gitbook.io/portfolio/v/git/)
+2. [sre](https://andrewjin.gitbook.io/portfolio/v/sre/)
+3. [devops](https://andrewjin.gitbook.io/portfolio/v/devops/)
