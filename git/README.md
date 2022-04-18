@@ -1,5 +1,5 @@
 ---
-description: GTI TEST 1
+description: GTI TEST description
 ---
 
 ## GTI page Part I
