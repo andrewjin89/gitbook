@@ -11,6 +11,8 @@
   * [Jenkins](tool/Jenkins.md)
   * [Ansible](tool/ansible.md)
   * [Docker](tool/docker.md)
+  * [vagrant](tool/vagrant.md)
+  * [serverspec](tool/serverspec.md)
 * [SRE](sre/README.md)
 * [DevOps](devops/README.md)
 * [IaC](iac/README.md)
