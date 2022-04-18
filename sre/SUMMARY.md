@@ -1,4 +1,4 @@
 # Table of contents
 
-* [SRE](git/README.md)
+* SRE
   * [how to gitbook markdown](git/how\_to\_markdown.md)
