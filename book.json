@@ -1,0 +1,8 @@
+{
+  "variables": {
+      "myVeriable": "Hello World"
+  },
+  "structure": {
+    "readme": "README.md"
+  }
+}
