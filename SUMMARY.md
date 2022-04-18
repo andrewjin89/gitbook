@@ -9,4 +9,4 @@
   * [README](sre/README.md)
 * [DevOps](devops/SUMMARY.md)
   * [README](devops/README.md)
-  * [Jenkins](summary-2/jenkins.md)
+  * [Jenkins](devops/Jenkins.md)
