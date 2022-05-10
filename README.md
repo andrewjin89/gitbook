@@ -9,8 +9,8 @@ description: Main page
 
 ## Page Link
 
-1. [git](https://andrewjin.gitbook.io/myblog/git)
-2. [ansible](https://andrewjin.gitbook.io/myblog/ansible)
+1. [devops](https://andrewjin.gitbook.io/myblog/devops)
+    1. [ansible](https://andrewjin.gitbook.io/myblog/ansible)
+2. [git](https://andrewjin.gitbook.io/myblog/git)
 3. [ELK](https://andrewjin.gitbook.io/myblog/elk)
 4. [sre](https://andrewjin.gitbook.io/myblog/sre)
-5. [devops](https://andrewjin.gitbook.io/myblog/devops)
