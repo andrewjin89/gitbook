@@ -5,6 +5,7 @@
   * [how to gitbook markdown](how\_to\_markdown.md)
 * [GIT](git/README.md)
 * [Ansible](ansible/README.md)
+  * [Ansible AWX & git 연동](ansible/task-1.md)
 * [elk](elk/README.md)
 * [SRE](sre/README.md)
 * [DevOps](devops/README.md)
