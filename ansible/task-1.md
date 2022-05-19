@@ -189,7 +189,7 @@ docker ps
 http://{서버IP}:10080
 ```
 
-## ansible 설치
+## ansible 설치2
 
 ```cli
 yum -y install epel-release git gcc yum-utils
